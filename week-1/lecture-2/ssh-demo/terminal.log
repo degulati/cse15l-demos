@@ -1,0 +1,43 @@
+devs-computerMINGW64 ~/cse15l/cse15l-demos/week-1/lecture-2/ssh-demo (main)
+$ ls
+WhereAmI.java
+
+devs-computerMINGW64 ~/cse15l/cse15l-demos/week-1/lecture-2/ssh-demo (main)
+$ javac WhereAmI.java 
+
+devs-computerMINGW64 ~/cse15l/cse15l-demos/week-1/lecture-2/ssh-demo (main)
+$ ls
+WhereAmI.class  WhereAmI.java
+
+devs-computerMINGW64 ~/cse15l/cse15l-demos/week-1/lecture-2/ssh-demo (main)
+$ java WhereAmI
+Windows 10
+devgu
+C:\Users\devgu
+C:\Users\devgu\cse15l\cse15l-demos\week-1\lecture-2\ssh-demo
+
+devs-computerMINGW64 ~/cse15l/cse15l-demos/week-1/lecture-2/ssh-demo (main)
+$ ssh cs15lwi23@ieng6.ucsd.edu
+(cs15lwi23@ieng6.ucsd.edu) Password: 
+Last login: Sat Jan 14 19:42:32 2023 from cpe-66-75-249-98.san.res.rr.com
+Hello cs15lwi23, you are currently logged into ieng6-201.ucsd.edu
+
+You are using 0% CPU on this system
+
+Cluster Status 
+Hostname     Time    #Users  Load  Averages
+ieng6-201   19:40:01   6   0.00,  0.04,  0.09
+ieng6-202   19:40:01   13  0.01,  0.07,  0.17
+ieng6-203   19:40:01   15  0.00,  0.05,  0.09
+
+
+Sat Jan 14, 2023  7:43pm - Prepping cs15lwi23
+[cs15lwi23@ieng6-201]:~:104$ javac WhereAmI.java
+[cs15lwi23@ieng6-201]:~:105$ java WhereAmI
+Linux
+cs15lwi23
+/home/linux/ieng6/cs15lwi23/cs15lwi23
+/home/linux/ieng6/cs15lwi23/cs15lwi23
+[cs15lwi23@ieng6-201]:~:106$ exit
+logout
+Connection to ieng6.ucsd.edu closed.
