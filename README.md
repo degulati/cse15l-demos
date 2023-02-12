@@ -1,5 +1,5 @@
 # cse15l-demos
-A repo containing demos for UCSD's CSE 15L (Software Tools &amp; Techniques) course. 
+A repo containing skill demos for UCSD's CSE 15L (Software Tools &amp; Techniques) course. 
 
 # Videos
 ### Week 1
