@@ -16,7 +16,7 @@ Examples of running command-line utilties: https://www.youtube-nocookie.com/embe
 ### Week 5
 How to search for a pattern over multiple directories: https://www.youtube-nocookie.com/embed/COCmRad7qhs  
 ### Week 6
-Coming soon!
+How to use the head, tail, and cut commands in bash: https://www.youtube.com/watch?v=1BF1mqHwESw
 ### Week 7
 Coming soon!
 ### Week 8
