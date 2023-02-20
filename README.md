@@ -18,7 +18,8 @@ How to search for a pattern over multiple directories: https://www.youtube-nocoo
 ### Week 6
 How to use the head, tail, and cut commands in bash: https://www.youtube.com/watch?v=1BF1mqHwESw
 ### Week 7
-Coming soon!
+How to set up SSH keys for ieng6: https://www.youtube-nocookie.com/embed/2jo-hh6Qdu4?cc_load_policy=1
+How to set up SSH keys for Github: https://www.youtube-nocookie.com/embed/3o6BbGw6_30?cc_load_policy=1 
 ### Week 8
 Coming soon!
 ### Week 9
