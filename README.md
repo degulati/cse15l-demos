@@ -16,7 +16,7 @@ Examples of running command-line utilties: https://www.youtube-nocookie.com/embe
 ### Week 5
 How to search for a pattern over multiple directories: https://www.youtube-nocookie.com/embed/COCmRad7qhs  
 ### Week 6
-How to use the head, tail, and cut commands in bash: https://www.youtube.com/watch?v=1BF1mqHwESw
+How to use the head, tail, and cut commands in bash: https://www.youtube-nocookie.com/embed/1BF1mqHwESw
 ### Week 7
 How to set up SSH keys for ieng6: https://www.youtube-nocookie.com/embed/2jo-hh6Qdu4?cc_load_policy=1
 How to set up SSH keys for Github: https://www.youtube-nocookie.com/embed/3o6BbGw6_30?cc_load_policy=1 
