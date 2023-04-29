@@ -1,5 +1,5 @@
 # cse15l-demos
-A repo containing skill demos for UCSD's CSE 15L (Software Tools &amp; Techniques) course. 
+A repo containing skill demos for UCSD's CSE 15L (Software Tools &amp; Techniques) course with Prof. Joe Politz for WI'23 and SP'23. Note that the links below are privacy-enhanced, meaning that YouTube's tracker will be disabled and viewing the videos below will not affect your browsing experience on YouTube.
 
 # Videos
 ### Week 1
@@ -21,8 +21,7 @@ How to use the head, tail, and cut commands in bash: https://www.youtube-nocooki
 How to set up SSH keys for ieng6: https://www.youtube-nocookie.com/embed/2jo-hh6Qdu4?cc_load_policy=1
 How to set up SSH keys for Github: https://www.youtube-nocookie.com/embed/3o6BbGw6_30?cc_load_policy=1 
 ### Week 8
-Coming soon!
+Walkthrough of Skill Demo #1: https://www.youtube-nocookie.com/embed/xjqG4HQINPQ
+The Skill Demo is a form of assessment administered in the course. 
 ### Week 9
-Coming soon!
-### Week 10
-Coming soon!
+Beyond CSE 15L: An example of applying commands to a genomics dataset: https://www.youtube-nocookie.com/embed/dogmDTc6so8
